@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-math-utilities",
+  "version": "1.0.0",
+  "description": "One Dionys (Math Utilities) - A set of mathematical utility functions for simple operations such as rounding, division, or random number generation.",
+  "main": "src/mathUtils.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-math-utilities.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "math-utilities"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-math-utilities/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-math-utilities#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-clipboard-manager": "^1.0.0",
+    "onedionys-cookie-management": "^1.0.0",
+    "onedionys-lazy-loading-images": "^1.0.0",
+    "onedionys-localization-library": "^1.0.0",
+    "onedionys-pagination-component": "^1.0.0"
+  }
+}
