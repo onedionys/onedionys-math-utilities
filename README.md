@@ -53,6 +53,7 @@ console.log(mathUtils.divide(6, 0)); // Output: "Error: Division by zero"
 ## 📆 Release Date
 
 * v1.0.0 : 07 March 2024
+* v1.0.1 : 11 March 2024
 
 ## 🧑 Author
 
