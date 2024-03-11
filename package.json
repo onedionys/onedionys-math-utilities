@@ -1,6 +1,6 @@
 {
   "name": "onedionys-math-utilities",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Math Utilities) - A set of mathematical utility functions for simple operations such as rounding, division, or random number generation.",
   "main": "src/mathUtils.js",
   "directories": {
